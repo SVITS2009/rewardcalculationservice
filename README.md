@@ -30,8 +30,8 @@ Software required for local setup( Without container) -
 
 * Reward calculation service is running on 8081 port. Once the application is running. 
   Please use the below endpoints to get the swagger document info.
-  - To access spring docs UI - [http://localhost:8081/onlineShopping/swagger-ui/](http://localhost:8081/swagger-ui/index.html) 
-  - To access spring  docs in Json form - [http://localhost:8081/onlineShopping/v2/api-docs](http://localhost:8081/v3/api-docs)
-  - To access H2 DB console - http://localhost:8081/onlineShopping/h2-console
+  - To access spring docs UI - http://localhost:8081/swagger-ui/index.html
+  - To access spring  docs in Json form - http://localhost:8081/v3/api-docs
+  - To access H2 DB console - http://localhost:8081/h2-console
 
-We have reward points for customers and transaction-related APIs like create, update, get customers, and delete customers.
+We have reward points for customers and transaction-related APIs like creating, updating, getting customers, and deleting customers.
