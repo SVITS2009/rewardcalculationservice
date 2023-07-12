@@ -11,7 +11,7 @@ Software required for local setup( Without container) -
 * Git
 * Java IDE (IntelliJ) 
 
-* Clone the project - [git clone https://github.com/SVITS2009/online-shoppinig.git](https://github.com/SVITS2009/rewardcalculationservice.git)
+* Clone the project - git clone https://github.com/SVITS2009/online-shoppinig.git
 
 * Go to project directory and run the below commands.
   - Clean - mvn clean
